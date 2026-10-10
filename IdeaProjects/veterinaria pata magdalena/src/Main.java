@@ -21,9 +21,9 @@ public class Main {
         System.out.println("\nprueba de modificacion de michi:");
         System.out.println("antes:" + mascotas[1].descripcion());
 
-        mascotas[1].setPeso(-2);
+        mascotas[1].setPeso(-3);
 
-        System.out.println("depues:" + mascotas[1].descripcion());
+        System.out.println("despues:" + mascotas[1].descripcion());
 
 
     }
